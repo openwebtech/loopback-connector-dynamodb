@@ -19,7 +19,8 @@
     "loopback-connector": "^1.2.0",
     "dynamodb-doc": "awslabs/dynamodb-document-js-sdk",
     "node-uuid": "1.4.1",
-    "jsep": "~0.3.0"
+    "jsep": "~0.3.0",
+    "bunyan": "^1.4.0"
   },
   "devDependencies": {
     "debug": "^2.1.0",
